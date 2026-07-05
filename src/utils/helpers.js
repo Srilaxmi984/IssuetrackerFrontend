@@ -1,4 +1,6 @@
-export const FILE_BASE = 'http://localhost:8080/uploads/';
+export const FILE_BASE =
+  `${process.env.REACT_APP_API_URL || 'https://issuetrackerbackend-x7ey.onrender.com/api'}`
+    .replace('/api', '') + '/uploads/';
 
 export function getPriorityBadge(priority) {
   const map = { LOW: 'badge-green', MEDIUM: 'badge-orange', HIGH: 'badge-red', CRITICAL: 'badge-red' };
