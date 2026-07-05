@@ -1,4 +1,4 @@
-#🚀 IssueTrack Pro – Smart Issue Tracking & Project Management System
+🚀 IssueTrack Pro – Smart Issue Tracking & Project Management System
 
 > A full-stack Issue Tracking and Project Management platform that streamlines bug reporting, task assignment, collaboration, and issue resolution through role-based dashboards and a modern responsive interface.
 
