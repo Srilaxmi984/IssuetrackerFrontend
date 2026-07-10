@@ -4,11 +4,7 @@
 
 
 
-🌐 Live Demo:
-https://issuetracker-frontend-ccop0wpi9-srilaxmi984s-projects.vercel.app/
-
-
----
+🌐 Live Demo:https://issuetracker-frontend-chi.vercel.app/
 
 📌 Overview
 
